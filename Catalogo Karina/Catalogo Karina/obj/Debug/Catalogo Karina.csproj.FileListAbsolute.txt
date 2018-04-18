@@ -1,0 +1,10 @@
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo_Karina.Form1.resources
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo_Karina.Properties.Resources.resources
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.exe.config
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.exe
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.pdb
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.exe
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.pdb
